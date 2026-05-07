@@ -1,0 +1,10 @@
+# Ignore artifacts:
+.circleci
+.env
+.github
+.vscode
+.git
+build
+coverage
+package.json
+node_modules
